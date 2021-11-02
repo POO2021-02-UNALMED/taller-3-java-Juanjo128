@@ -98,4 +98,8 @@ public class TV {
 		this.volumen--;
 		}
 	}
+	
+	public void setNumTV(int f) {
+		numTV = f;
+	}
 }
