@@ -10,8 +10,8 @@ public class TV {
 	static int numTV;
 	
 	TV(Marca x, boolean y){
-		marca = x;
-		estado = y;
+		this.marca = x;
+		this.estado = y;
 		numTV ++;
 	}
 	
