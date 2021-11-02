@@ -4,7 +4,7 @@ public class Marca {
 	
 	String nombre;
 	
-	Marca(String x){
+	public Marca(String x){
 		this.nombre = x;
 	}
 	
