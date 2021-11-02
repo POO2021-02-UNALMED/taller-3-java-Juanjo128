@@ -99,7 +99,7 @@ public class TV {
 		}
 	}
 	
-	public void setNumTV(int f) {
+	public static void setNumTV(int f) {
 		numTV = f;
 	}
 }
